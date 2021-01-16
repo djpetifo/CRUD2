@@ -6,8 +6,7 @@ We'll be using:
 	* knex.js for our database migrations, seeds and queries
 	* express.js for our JSON routes
 * Client:
-
-	*jQuery for DOM/AJAX
+	* jQuery for DOM/AJAX
 	* bootstrap for our UI
 
 ## Full Stack Check List
