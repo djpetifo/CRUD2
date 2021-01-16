@@ -10,8 +10,8 @@ We'll be using:
 	* bootstrap for our UI
 
 ## Full Stack Check List
-* [ ] Add api folder and create/mount router
-* [ ] List all records with GET /api/vs/todo
+* [x] Add api folder and create/mount router
+* [x] List all records with GET /api/vs/todo
 * [ ] Add bootstrap
 * [ ] Show new form in new.html
 * [ ] Create a record with POST /api/v1/todo
