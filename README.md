@@ -12,7 +12,7 @@ We'll be using:
 ## Full Stack Check List
 * [x] Add api folder and create/mount router
 * [x] List all records with GET /api/vs/todo
-* [ ] Add bootstrap
+* [x] Add bootstrap
 * [ ] Show new form in new.html
 * [ ] Create a record with POST /api/v1/todo
 * [ ] Show one record with GET /api/v1/todo/:id
